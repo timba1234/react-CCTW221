@@ -19,7 +19,7 @@
 		
     <script type="text/babel">
 			ReactDOM.render(<h4>Hello From Simple React</h4>, document.getElementById('root'));
-		</script>
+	</script>
 	
   </body>
 </html>
